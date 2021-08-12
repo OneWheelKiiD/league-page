@@ -6,7 +6,7 @@ export const dynasty = true; // true for dynasty leagues, false for redraft and 
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Enjoy the new and improved league homepage. Good luck in 2021!/p>
+  <p>Enjoy the new and improved league homepage. Good luck in 2021!</p>
 `;
 
 /*   STEP 3   */
